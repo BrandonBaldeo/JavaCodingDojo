@@ -1,3 +1,4 @@
+package fundamentals;
 import java.util.ArrayList;
 
 public class CafeUtil {

@@ -1,3 +1,4 @@
+package fundamentals;
 import java.util.ArrayList;
 import java.util.Arrays;
 public class TestCafe {

@@ -1,3 +1,4 @@
+package fundamentals;
 public class CafeJava {
     public static void main(String[] args) {
         // APP VARIABLES
